@@ -1,0 +1,77 @@
+===================== TEXT ELEMENTS IN arifhaxn-main/dark.svg =====================
+[ROOT aria-label]: Arif Hasan — profile.sh --live
+x=590.0 y=29.0  | FULL: arifhasan.connect@gmail.com - % ./profile.sh --live
+x=38    y=74    | FULL: VISUAL.MAP
+x=470   y=106   | FULL: SYSTEM.INFO
+x=1125  y=106   | FULL: ● LIVE
+    -> tspan(text='●', fill='', font-weight='')
+x=479   y=136   | FULL: arifhasan.connect@gmail.com
+x=470   y=162   | FULL: Subject ............................................................ Arif Hasan
+    -> tspan(text='Subject ', fill='#22D3EE', font-weight='')
+    -> tspan(text='............................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Arif Hasan', fill='#F8FAFC', font-weight='600')
+x=470   y=185   | FULL: Role ..................................................... Full-Stack Developer
+    -> tspan(text='Role ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.....................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Full-Stack Developer', fill='#F8FAFC', font-weight='600')
+x=470   y=208   | FULL: Origin ..................................................... Sylhet, Bangladesh
+    -> tspan(text='Origin ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.....................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Sylhet, Bangladesh', fill='#F8FAFC', font-weight='600')
+x=470   y=231   | FULL: Education .......................................................... BSc in CSE
+    -> tspan(text='Education ', fill='#22D3EE', font-weight='')
+    -> tspan(text='..........................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' BSc in CSE', fill='#F8FAFC', font-weight='600')
+x=470   y=254   | FULL: Status ......................................... Building + Learning + Shipping
+    -> tspan(text='Status ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.........................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Building + Learning + Shipping', fill='#F8FAFC', font-weight='600')
+x=470   y=277   | FULL: ToolChain ................................. VS Code, Git, Android Studio, Figma
+    -> tspan(text='ToolChain ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' VS Code, Git, Android Studio, Figma', fill='#F8FAFC', font-weight='600')
+x=470   y=308   | FULL: Core.Lang ................................................... Dart, C++, Python
+    -> tspan(text='Core.Lang ', fill='#22D3EE', font-weight='')
+    -> tspan(text='...................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Dart, C++, Python', fill='#F8FAFC', font-weight='600')
+x=470   y=331   | FULL: Core.Frontend ......................................................... Flutter
+    -> tspan(text='Core.Frontend ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.........................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Flutter', fill='#F8FAFC', font-weight='600')
+x=470   y=354   | FULL: Core.Backend .......................................................... Node.js
+    -> tspan(text='Core.Backend ', fill='#22D3EE', font-weight='')
+    -> tspan(text='..........................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Node.js', fill='#F8FAFC', font-weight='600')
+x=470   y=377   | FULL: Core.Database ............................................... Firebase, MongoDB
+    -> tspan(text='Core.Database ', fill='#22D3EE', font-weight='')
+    -> tspan(text='...............................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Firebase, MongoDB', fill='#F8FAFC', font-weight='600')
+x=470   y=400   | FULL: Core.Infra ................................................ Vercel, Docker, Git
+    -> tspan(text='Core.Infra ', fill='#22D3EE', font-weight='')
+    -> tspan(text='................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' Vercel, Docker, Git', fill='#F8FAFC', font-weight='600')
+x=470   y=431   | FULL: - Contact ---------------------------------------------------------------------
+    -> tspan(text='- Contact ', fill='#94A3B8', font-weight='')
+    -> tspan(text='---------------------------------------------------------------------', fill='rgba(148,163,184,0.35)', font-weight='')
+x=470   y=454   | FULL: Grid.Mail ......................................... arifhasan.connect@gmail.com
+    -> tspan(text='Grid.Mail ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.........................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' arifhasan.connect@gmail.com', fill='#F8FAFC', font-weight='600')
+x=470   y=477   | FULL: Grid.Portfolio .................................................... coming soon
+    -> tspan(text='Grid.Portfolio ', fill='#22D3EE', font-weight='')
+    -> tspan(text='....................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' coming soon', fill='#F8FAFC', font-weight='600')
+x=470   y=500   | FULL: Grid.LinkedIn ............................................ arif-hasan-672249358
+    -> tspan(text='Grid.LinkedIn ', fill='#22D3EE', font-weight='')
+    -> tspan(text='............................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' arif-hasan-672249358', fill='#F8FAFC', font-weight='600')
+x=470   y=523   | FULL: Grid.GitHub ......................................................... @arifhaxn
+    -> tspan(text='Grid.GitHub ', fill='#22D3EE', font-weight='')
+    -> tspan(text='.........................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' @arifhaxn', fill='#F8FAFC', font-weight='600')
+x=470   y=546   | FULL: Grid.Facebook ...................................................... @arifhaxnn
+    -> tspan(text='Grid.Facebook ', fill='#22D3EE', font-weight='')
+    -> tspan(text='......................................................', fill='rgba(148,163,184,0.35)', font-weight='')
+    -> tspan(text=' @arifhaxnn', fill='#F8FAFC', font-weight='600')
+x=470   y=577   | FULL: ▸ More about me & projects below in README ↓ █
+    -> tspan(text='█', fill='#22D3EE', font-weight='')

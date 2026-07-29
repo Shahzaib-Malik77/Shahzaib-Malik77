@@ -1,0 +1,29 @@
+Dark path tags count: 154, Light path tags count: 156
+Matching path strings between dark and light: 0 / 154
+
+--- Initial Fade-In Groups (Sample) ---
+Line 34 (begin 0.20s): Y range 35..338, count 171
+Line 41 (begin 0.43s): Y range 34..338, count 212
+Line 51 (begin 0.77s): Y range 36..338, count 149
+Line 61 (begin 1.10s): Y range 48..336, count 176
+Line 93 (begin 2.17s): Y range 33..337, count 177
+
+--- Second Animated Groups (Sample) ---
+Line 97 (trans 0       ): X(277..299), Y(310..327)
+Line 98 (trans 0       ): X(289..298), Y(283..311)
+Line 99 (trans 0       ): X(289..299), Y(243..295)
+Line 100 (trans 0       ): X(288..299), Y(242..265)
+Line 101 (trans 0       ): X(280..280), Y(338..338)
+Line 102 (trans 0       ): X(249..299), Y(301..338)
+Line 103 (trans 0       ): X(258..299), Y(265..335)
+Line 104 (trans 0       ): X(237..299), Y(237..298)
+Line 105 (trans 0       ): X(261..299), Y(231..271)
+Line 106 (trans 0       ): X(246..252), Y(334..335)
+Line 107 (trans 0       ): X(227..294), Y(286..338)
+Line 108 (trans 0       ): X(216..293), Y(271..338)
+Line 109 (trans 0       ): X(223..295), Y(231..304)
+Line 110 (trans 0       ): X(227..292), Y(223..277)
+Line 111 (trans 0       ): X(242..259), Y(227..234)
+
+Difference in total pixels between fade-in set and animated set: 0
+Set 1 total pixels: 17087, Set 2 total pixels: 17087
